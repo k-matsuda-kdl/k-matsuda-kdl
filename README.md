@@ -7,6 +7,7 @@
 - GPGキーテスト
 - キーテスト
 - name テスト
+- パスフレーズテスト
 
 <!---
 k-matsuda-kdl/k-matsuda-kdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
