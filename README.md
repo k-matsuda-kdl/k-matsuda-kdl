@@ -3,13 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- テスト更新
-- GPGキーテスト
-- キーテスト
-- name テスト
-- パスフレーズテスト    
-- hoge
-- hogehoge
+
 
 <!---
 k-matsuda-kdl/k-matsuda-kdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
